@@ -1,4 +1,4 @@
-ARG BUILD_FROM
+ARG BUILD_FROM=something
 FROM $BUILD_FROM
 
 MAINTAINER ex-ml <ex_ml@sent.com>
